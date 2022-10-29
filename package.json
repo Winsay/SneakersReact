@@ -1,7 +1,7 @@
 {
   "name": "react_sneakers",
   "version": "0.1.0",
-  "homepage": "http://Winsay.github.io/SneakersReact",
+  "homepage": "https://winsay.github.io/SneakersReact/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
